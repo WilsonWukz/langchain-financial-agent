@@ -1,5 +1,6 @@
 langchain~=1.2.0
 langchain-core~=1.2.5
+langchain_classic
 langchain-google-genai>=2.0.0
 tavily-python
 python-dotenv
