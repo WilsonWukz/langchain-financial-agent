@@ -10,7 +10,7 @@ An automated AI agent that acts as a financial research assistant. It autonomous
 ## 🚀 Key Features
 
 * **Multi-Market Data Retrieval**: Fetches real-time data for both International (XAU/USD) and Chinese (Au99.99/CNY) markets using Tavily Search API.
-* **AI-Powered Analysis**: Uses **Google Gemini 2.0 Flash** to synthesize data and generate "Wall Street style" market trend reports in Chinese.
+* **AI-Powered Analysis**: Uses **Google Gemini** to synthesize data and generate "Wall Street style" market trend reports in Chinese.
 * **Automated Workflow**: Fully serverless deployment using **GitHub Actions** (Cron Schedule).
 * **Professional Reporting**: Renders Markdown analysis into styled HTML emails and distributes them via SMTP.
 
