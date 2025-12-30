@@ -1,0 +1,6 @@
+python-dotenv~=1.2.1
+langchain~=1.2.0
+langchain-core~=1.2.5
+langchain-google-genai~=4.1.2
+Markdown~=3.10
+protobuf~=5.29.5
