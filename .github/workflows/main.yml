@@ -2,8 +2,8 @@ name: Daily Gold Report
 
 on:
   schedule:
-    # 每天悉尼时间早上 9:00 (UTC 22:00)
-    - cron: '0 22 * * *'
+    # 悉尼 9:17 (UTC 22:17) - 避开整点拥堵
+    - cron: '17 22 * * *'
   # 允许手动触发
   workflow_dispatch:
 
