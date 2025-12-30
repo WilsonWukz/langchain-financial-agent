@@ -1,8 +1,7 @@
-langchain>=0.2.0
-langchain-community>=0.2.0
-langchain-core>=0.2.0
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
 tavily-python
 python-dotenv
-langchain-google-genai~=4.1.2
-Markdown~=3.10
-protobuf~=5.29.5
+markdown
